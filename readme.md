@@ -292,6 +292,11 @@ Skills focused on software development, code quality, and engineering workflows.
 
 ### Core Development Skills
 
+- [elirankotzero/ai-coding-rules-sampler](https://github.com/elirankotzero/ai-coding-rules-sampler) ![Stars](https://img.shields.io/github/stars/elirankotzero/ai-coding-rules-sampler?style=flat-square)
+  - plan-feature writes a PLAN.md with steps and checks before any code
+  - review-changes reviews the diff against the plan; record-decisions keeps a decision log
+  - Short CLAUDE.md/AGENTS.md and security rules; versions for Claude Code, Codex, Cursor and Windsurf (MIT)
+
 - [musoyangrigor/gitx-skill](https://github.com/musoyangrigor/gitx-skill) ![Stars](https://img.shields.io/github/stars/musoyangrigor/gitx-skill?style=flat-square)
   - Turns messy AI-generated changes into clean, reviewable Git history
   - Splits mixed working-tree changes into logical Conventional Commits
